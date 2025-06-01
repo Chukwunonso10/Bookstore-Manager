@@ -1,16 +1,17 @@
-### BookStore CLI Application
+## BookStore CLI Application
 A lightweight Command Line Interface (CLI) app built with Node.js and MongoDB that performs CRUD (Create, Read, Update, Delete) operations on a book collection.
 
-### Features
-Add a book with title and price
+## Features
 
-## List all books in the database
+# Add a book with title and price
 
-## Update a book field by its ID
+# List all books in the database
 
-## Delete a book by its ID
+# Update a book field by its ID
 
-## Connects to a MongoDB database using the native driver
+# Delete a book by its ID
+
+# Connects to a MongoDB database using the native driver
 
 ### 🛠️ Technologies Used
 Node.js
@@ -43,6 +44,7 @@ bash
 Copy
 Edit
 git clone https://github.com/Chukwunonso10/Bookstore-Manager.git
+
 cd Bookstore-Manager
 
 ## 2. Install Dependencies
