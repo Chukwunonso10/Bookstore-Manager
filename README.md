@@ -3,15 +3,15 @@ A lightweight Command Line Interface (CLI) app built with Node.js and MongoDB th
 
 ## Features
 
-# Add a book with title and price
+ Add a book with title and price
 
-# List all books in the database
+ List all books in the database
 
-# Update a book field by its ID
+ Update a book field by its ID
 
-# Delete a book by its ID
+ Delete a book by its ID
 
-# Connects to a MongoDB database using the native driver
+ Connects to a MongoDB database using the native driver
 
 ### 🛠️ Technologies Used
 Node.js
